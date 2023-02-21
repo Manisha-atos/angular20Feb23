@@ -1,0 +1,17 @@
+V -- M 
+3 directives
+attr 
+str 
+component 
+
+event binding()
+custom directive 
+
+@Component
+@Directive
+
+Pipes
+lowercase,uppercase,titlecase
+currency:fm
+number
+json
